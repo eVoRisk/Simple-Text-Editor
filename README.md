@@ -1,2 +1,2 @@
 # Simple-Text-Editor
-Create your own text editor.
+Simple way to create a text editor.
